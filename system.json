@@ -1,6 +1,6 @@
 {
   "id": "ptu",
-  "title": "Pokemon Tabletop Reunited",
+  "title": "Pokemon Tabletop Reunited - Customized",
   "description": "A re-imagining of the Pokemon Tabletop United TTRPG System now made with FoundryVTT as a central pilar.",
   "compatibility": {
     "minimum": "12.327",
@@ -9,11 +9,11 @@
   },
   "version": "4.3.7",
   "templateVersion": 2,
-  "authors": [
+  "original authors": [
     {
       "name": "Ashe Eon",
       "email": "ptu@soaringnetwork.com",
-      "url": "https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System"
+      "url": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System"
     },
     {
       "name": "Ellam Fox"
@@ -205,8 +205,8 @@
     }
   ],
   "background": "systems/ptu/static/images/banner.webp",
-  "url": "https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System",  
-  "manifest": "https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/releases/latest/download/system.json",
-  "changelog": "https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/raw/master/changelog.md",
-  "download": "https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System/releases/latest/download/system.zip"
+  "url": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System",  
+  "manifest": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System/releases/latest/download/system.json",
+  "changelog": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System/raw/master/changelog.md",
+  "download": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System/releases/latest/download/system.zip"
 }
