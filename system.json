@@ -1,5 +1,5 @@
 {
-  "id": "ptu",
+  "id": "pokemon-ttrpg-custom",
   "title": "Pokemon Tabletop Reunited - Customized",
   "description": "A re-imagining of the Pokemon Tabletop United TTRPG System now made with FoundryVTT as a central pilar.",
   "compatibility": {
@@ -206,7 +206,7 @@
   ],
   "background": "systems/ptu/static/images/banner.webp",
   "url": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System",  
-  "manifest": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System/releases/latest/download/system.json",
+  "manifest": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System/releases/download/latest/system.json",
   "changelog": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System/raw/master/changelog.md",
-  "download": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System/releases/latest/download/system.zip"
+  "download": "https://github.com/Riley94/Foundry-Pokemon-Tabletop-United-System/releases/download/latest/system.zip"
 }
